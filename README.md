@@ -1,4 +1,3 @@
-<h1><img align=right src="../../../pruten.github.io/raw/master/web/stork_tiny_head3.jpg"/>Shoebill</h1>
 
 A Macintosh II emulator that runs A/UX (and A/UX only). 
 
@@ -9,9 +8,9 @@ Shoebill requires a Macintosh II, IIx or IIcx ROM, and a disk image with A/UX in
 [Download the latest release], and then see the [getting started] wiki.  
 Also check out [screenshots].
 
-__Update (Sept 13, 2015): [Shoebill 0.0.5 is available]__
+__Update (Jan 16th, 2019)
 
-__This will probably be the last release. I won't be able to work on Shoebill going forward (by contractual obligation), so I wanted to race out one last release. Only an OS X binary is available, sorry, and it's very unpolished. But the SDL GUI should still build on linux/windows.__
+__I've decided to fork Shoebill to continue work on this emulator to see if I can implement some of the missing features and work on some of the existing bugs. I'm new to programming, so don't expect any releases any time soon, but if I have any news, I'll post it here. .__
 
 #### Supports
 * A/UX 1.1.1 through 3.1 (and 3.1.1 a little)
@@ -32,9 +31,8 @@ __This will probably be the last release. I won't be able to work on Shoebill go
 * Serial ports
 
     
-[Download the latest release]:https://github.com/pruten/Shoebill/releases
-[getting started]:https://github.com/pruten/Shoebill/wiki/Getting-Started
-[screenshots]:https://github.com/pruten/Shoebill/wiki/Screenshots
-[Shoebill 0.0.5 is available]:https://github.com/pruten/Shoebill/releases
+[Download the latest release]:https://github.com/kgllewellyn/Shoebill/releases
+[getting started]:https://github.com/kgllewellyn/Shoebill/wiki/Getting-Started
+[screenshots]:https://github.com/kgllewellyn/Shoebill/wiki/Screenshots
 [The thread on emaculation.com]:http://www.emaculation.com/forum/viewtopic.php?f=7&t=8288
 
