@@ -10,7 +10,7 @@ Also check out [screenshots].
 
 __Update (Jan 16th, 2019)
 
-__I've decided to fork Shoebill to continue work on this emulator to see if I can implement some of the missing features and work on some of the existing bugs. I'm new to programming, so don't expect any releases any time soon, but if I have any news, I'll post it here. .__
+__I've decided to fork Shoebill to continue work on this emulator to see if I can implement some of the missing features and work on some of the existing bugs. I'm new to programming, so don't expect any releases any time soon, but if I have any news, I'll post it here.__
 
 #### Supports
 * A/UX 1.1.1 through 3.1 (and 3.1.1 a little)
